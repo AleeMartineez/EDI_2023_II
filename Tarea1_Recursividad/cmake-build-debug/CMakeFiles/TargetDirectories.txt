@@ -1,0 +1,3 @@
+C:/Users/aleja/CLionProjects/Segundo Parcial/Tarea1_Recursividad/cmake-build-debug/CMakeFiles/Tarea1_Recursividad.dir
+C:/Users/aleja/CLionProjects/Segundo Parcial/Tarea1_Recursividad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleja/CLionProjects/Segundo Parcial/Tarea1_Recursividad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
